@@ -1,4 +1,4 @@
-### Olá, me chamo Denny Hernandes 👋
+### Olá, me chamo Denny Hernandes!! 👋
 
 - 🔭 Estudante de programação Front-End
 - 🌱 Estudando TypeScript
